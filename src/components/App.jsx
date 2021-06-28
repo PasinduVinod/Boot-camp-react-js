@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "./Heading";
+import Heading from "./Heading";
 import Footer from "./Footer";
 import Note from "./Note";
 
