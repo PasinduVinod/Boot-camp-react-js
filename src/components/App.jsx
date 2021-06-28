@@ -1,12 +1,12 @@
 import React from "react";
-import Heading from "./Heading";
+import Header from "./Header";
 import Footer from "./Footer";
 import Note from "./Note";
 
 function App(){
   return {
     <div>
-      <Heading />
+      <Header />
       <Note />
       <Note />
       <Note />
@@ -14,7 +14,7 @@ function App(){
       <Note />
       <Footer />
     </div>
-  }
+  };
 }
 
 export default App;
