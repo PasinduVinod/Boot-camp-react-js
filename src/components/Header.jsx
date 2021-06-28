@@ -1,11 +1,11 @@
 import React from "react";
 
-function Header() {
+function Heading() {
   return{
-    <Header>
+    <Heading>
       <h1>ShapeAI Bootcamp</h1>
-    </Header>
+    </Heading>
   };
 }
 
-export default Header;
+export default Heading;
